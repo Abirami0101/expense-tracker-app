@@ -1,0 +1,7 @@
+
+v
+java:S1192 "[Define a constant instead of duplicating this literal "Category not found for id " 3 times.(Α­ωÿÿÿÿ
+h
+java:S6204)"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή
+c
+java:S1612("MReplace this lambda with method reference 'CategoryMapper::mapToCategoryDto'.(ίκ
